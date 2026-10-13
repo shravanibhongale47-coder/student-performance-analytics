@@ -1,0 +1,31 @@
+Student_ID,Name,Department,Mathematics,Science,English,Computer_Science,Attendance_Percent,Total_Marks,Average_Marks,Grade,Result
+STU001,Aarav Sharma,Computer Science,88,82,91,85,92,346,86.5,B,Pass
+STU002,Ananya Patil,Computer Science,76,81,79,88,95,324,81.0,B,Pass
+STU003,Ishaan Kulkarni,Information Technology,92,90,94,89,97,365,91.25,A,Pass
+STU004,Diya Joshi,Commerce,68,74,71,80,86,293,73.25,C,Pass
+STU005,Rohan Deshmukh,Computer Science,55,61,58,72,78,246,61.5,D,Pass
+STU006,Saanvi More,Information Technology,84,87,82,91,98,344,86.0,B,Pass
+STU007,Aditya Pawar,Commerce,73,69,77,76,88,295,73.75,C,Pass
+STU008,Myra Shah,Computer Science,96,94,98,93,99,381,95.25,A,Pass
+STU009,Vihaan Jadhav,Information Technology,62,67,64,70,75,263,65.75,D,Pass
+STU010,Ira Chavan,Commerce,81,78,85,84,93,328,82.0,B,Pass
+STU011,Arjun Bhosale,Computer Science,44,52,48,66,68,210,52.5,F,Pass
+STU012,Aadhya Kale,Information Technology,89,86,90,92,96,357,89.25,B,Pass
+STU013,Kabir Nair,Commerce,59,63,57,74,79,253,63.25,D,Pass
+STU014,Anvi Sane,Computer Science,78,83,80,87,91,328,82.0,B,Pass
+STU015,Reyansh Pawar,Information Technology,71,75,73,82,89,301,75.25,C,Pass
+STU016,Sara Khan,Commerce,94,91,95,90,97,370,92.5,A,Pass
+STU017,Atharv Gokhale,Computer Science,64,58,66,69,73,257,64.25,D,Pass
+STU018,Kiara Mehta,Information Technology,86,88,84,95,98,353,88.25,B,Pass
+STU019,Dev Patil,Commerce,32,46,53,61,64,192,48.0,F,Fail
+STU020,Pari Kulkarni,Computer Science,82,79,87,86,94,334,83.5,B,Pass
+STU021,Omkar Shinde,Information Technology,57,54,60,68,72,239,59.75,F,Pass
+STU022,Navya Desai,Commerce,87,84,89,88,95,348,87.0,B,Pass
+STU023,Yash Wagh,Computer Science,69,72,65,77,84,283,70.75,C,Pass
+STU024,Tara Apte,Information Technology,98,96,97,94,99,385,96.25,A,Pass
+STU025,Kunal Salunkhe,Commerce,61,56,63,70,76,250,62.5,D,Pass
+STU026,Meera Rane,Computer Science,90,92,88,91,96,361,90.25,A,Pass
+STU027,Dhruv Shetty,Information Technology,74,70,76,79,87,299,74.75,C,Pass
+STU028,Ishita Naik,Commerce,52,60,55,65,71,232,58.0,F,Pass
+STU029,Neil Joshi,Computer Science,80,85,78,83,90,326,81.5,B,Pass
+STU030,Riya Pawar,Information Technology,66,73,69,81,85,289,72.25,C,Pass
