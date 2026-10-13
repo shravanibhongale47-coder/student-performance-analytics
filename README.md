@@ -48,5 +48,4 @@ The program saves processed data and chart images inside the `outputs` folder.
 - `outputs/` — generated results and charts after running
 - `README.md` — project documentation
 
-## Important
-Review the code, run it yourself, and be ready to explain the calculations and grading rule. Update the documentation with your own screenshots, learning, and GitHub URL before submission.
+
