@@ -1,4 +1,7 @@
 # Project Documentation: Student Performance Analytics System
+Student Name = Shravani Vikram Bhongale
+Mail Id = shravanibhongale47@gmail.com
+Contact = 7498602353
 
 ## 1. Project Title
 Student Performance Analytics System
@@ -43,7 +46,22 @@ After running the program, add screenshots of:
 The program turns raw student records into a structured performance summary and visual charts. Replace this paragraph with observations from your own run.
 
 ## 9. Challenges & Learning
-Write about the challenges you personally encountered and how you solved them. Example topics: file paths, installing libraries, selecting columns, calculating averages, and saving plots.
+
+During the development of the Student Performance Analytics System, I encountered a few challenges and learned how to solve them.
+
+- **File Path Issues:** Initially, the program could not locate the `students.csv` dataset because it was stored in a different folder. I resolved this by identifying the correct file location and copying the dataset into the required `data` folder.
+- **Python Execution:** I learned to run the Python program from the correct project directory using the terminal.
+- **Library Usage:** I used Pandas to load and analyze the dataset and Matplotlib to create charts for visualizing student performance.
+- **Calculating Statistics:** I learned how to calculate class averages, subject-wise averages, pass percentages, and identify the top-performing students.
+- **Saving Visualizations:** I worked on saving the generated charts in the `outputs` folder and resolving file path issues.
+- **Debugging:** By reading error messages and testing commands in PowerShell, I improved my ability to identify and resolve common Python execution and file management problems.
+- **GitHub Version Control:** I learned how to initialize a Git repository, stage files, create commits, and push a project to GitHub.
+
+This project improved my practical understanding of Python, data analysis, data visualization, debugging, and project documentation.
 
 ## 10. GitHub Repository
-Add your public repository URL here after uploading and verifying the project.
+
+**Public Repository URL:**  
+https://github.com/shravanibhongale47-coder/student-performance-analytics
+
+The repository contains the Python source code, dataset, generated visualizations, and project documentation.
